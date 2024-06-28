@@ -9,4 +9,4 @@ I enjoy using my obsessive attention to detail, and my unequivocal love for maki
 *👨‍🎓 I'm a MCA Student<br/>
 *🌱 I'm currently learning:<br/>
         Full-Stact Development.
-        Data Structures 
+        Data Structures.
